@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on my MP for my class
+🌱 I’m currently learning about arrays and strings
 <!--
 **s18palayll/s18palayll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
